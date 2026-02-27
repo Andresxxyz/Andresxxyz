@@ -43,13 +43,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andresxxyz&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresxxyz&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
